@@ -1,0 +1,7 @@
+ordinal_position,column_name,data_type,is_nullable,column_default
+1,id_plan_ajuste,integer,NO,NULL
+2,id_plan,integer,NO,NULL
+3,id_tipo_ajuste,integer,NO,NULL
+4,responsable_usuario,integer,NO,NULL
+5,descripcion,text,NO,NULL
+6,estado,character varying,NO,'PENDIENTE'::character varying

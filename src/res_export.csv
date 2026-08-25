@@ -1,0 +1,29 @@
+id_plan_ajuste,id_plan,tipo_ajuste,estudiante,cantidad_seguimientos
+1,1,Material accesible,Ana Martínez,2
+2,1,Tiempo adicional,Ana Martínez,1
+3,2,Adecuación de infraestructura,Daniel Rodríguez,1
+4,2,Apoyo tecnológico,Daniel Rodríguez,1
+5,3,Apoyo de comunicación,Valentina Gómez,1
+6,3,Evaluación adaptada,Valentina Gómez,1
+7,4,Metodología diferenciada,Andrés Pérez,1
+8,4,Adecuación curricular,Andrés Pérez,1
+9,5,Metodología diferenciada,Mariana López,1
+10,5,Tiempo adicional,Mariana López,1
+11,6,Adecuación curricular,Ana Martínez,0
+12,8,Apoyo de comunicación,Valentina Gómez,0
+13,9,Evaluación adaptada,Valentina Gómez,0
+14,10,Material accesible,Laura Gómez,0
+15,11,Adecuación de infraestructura,Carlos Martínez,0
+16,12,Apoyo de comunicación,Sofía Rodríguez,0
+17,13,Apoyo de comunicación,Andrés Hernández,0
+18,14,Metodología diferenciada,Mariana López,0
+19,15,Metodología diferenciada,Diego Ramírez,0
+20,16,Apoyo tecnológico,Valeria Torres,0
+21,17,Material accesible,Camila Castro,0
+22,18,Adecuación de infraestructura,Sebastián Morales,0
+23,19,Apoyo de comunicación,Natalia Vargas,0
+24,20,Apoyo de comunicación,Juan Navarro,0
+25,21,Metodología diferenciada,Daniela Rojas,0
+26,22,Metodología diferenciada,Mateo Suárez,0
+27,23,Apoyo tecnológico,Isabella Mendoza,0
+28,24,Material accesible,Alejandro Pérez,0
